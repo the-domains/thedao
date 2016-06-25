@@ -4,8 +4,15 @@
         <description><![CDATA[TheDAO]]></description>
         <link>https://thegrid.ai/thedao/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 16:59:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 17:27:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thedao/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum Network Status]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a04783b0-725f-4264-8bcc-d09875190c95.jpg">]]></description>
+            <link>https://ethstats.net/</link>
+            <guid isPermaLink="false">1fc6653f-7db0-4852-b938-2b16fdffe157</guid>
+            <pubDate>Sat, 25 Jun 2016 17:27:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ICO Countdown]]></title>
             <description><![CDATA[<article><h1>ICO Countdown</h1><p>Never miss a crowdsale again!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/784059d2e8c64b00bd439a40bd285e8f/noop.jpg?input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg"></article>]]></description>

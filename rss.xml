@@ -4,7 +4,7 @@
         <description><![CDATA[TheDAO]]></description>
         <link>https://thegrid.ai/thedao/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 16:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 16:58:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thedao/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ICO Terms]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.icocountdown.com/</link>
             <guid isPermaLink="false">8de97eec-4149-4af9-aa96-2c39bac3244e</guid>
             <pubDate>Sat, 25 Jun 2016 16:58:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Waves]]></title>
+            <description><![CDATA[<article><h1>Waves</h1><p>WAVES is a decentralized platform ​that uses custom blockchain tokens to represent value. Tokens can be issued by any platform user, ​and can be transferred, swapped, and traded ​on​ an integrated decentralized exchange. Tokens may represent a share in a crowdfunding project, financial instrument, ​or any other ​item​ with inherent value.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a0c2369-3d78-4092-9a70-40c4693b9e50.jpg"></article>]]></description>
+            <link>https://wavesplatform.com/</link>
+            <guid isPermaLink="false">950a15a4-3ba7-4f36-be4a-bb687472787f</guid>
+            <pubDate>Sat, 25 Jun 2016 16:57:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plutus.it]]></title>

@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.icocountdown.com/'
 title: ICO Countdown
-datePublished: '2016-06-25T16:58:31.754Z'
-dateModified: '2016-06-25T16:58:26.339Z'
+datePublished: '2016-06-25T16:58:44.386Z'
+dateModified: '2016-06-25T16:43:34.932Z'
 starred: false
 sourcePath: _posts/2016-06-25-ico-countdown.md
 inFeed: true

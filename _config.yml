@@ -1,16 +1,16 @@
-layout_spectrum: 0.47022507432848215
-typography_spectrum: 0.1819731378927827
+layout_spectrum: 0.8632787596434355
+typography_spectrum: 0.8145116076339036
 color:
-  brandStrength: 0.8872793964110315
-  lightness: 0.49329813313670456
-  saturation: 0.1930818015243858
-  rhythmicContrast: 0.17804443859495223
+  brandStrength: 0.6526827989146113
+  lightness: 0.034443821059539914
+  saturation: 0.11630269675515592
+  rhythmicContrast: 0.943382776575163
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
 name: TheDAO
 author:
   name: Q4Ark
